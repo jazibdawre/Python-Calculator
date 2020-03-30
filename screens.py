@@ -13,3 +13,4 @@ def raise_frame(frame):
     frame.tkraise()
 
 home.title("Calculator")
+home.iconbitmap('./icon/favicon.ico')
